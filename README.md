@@ -1,4 +1,6 @@
-# text2speech
+# Text2Speech Serverless Application
+
+
 This is a text to speech application developed using AWS Lambda, Dynamo DB, SNS, Amazon Polly
 The steps to be Carried out are as following :
 
